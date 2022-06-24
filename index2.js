@@ -82,9 +82,6 @@ let appEngine = function () {
 }
 
 
-
-//Promise and Fetch version
-
 btn1.addEventListener('click', appEngine)
 
 document.addEventListener('keydown', function (e) {
