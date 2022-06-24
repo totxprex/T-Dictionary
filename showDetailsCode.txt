@@ -1,0 +1,25 @@
+ <center>
+        <img src="img-2.jpg" class="countFlag" width="320" height="200">
+
+      </center>
+
+      <hr style="color: rgb(107, 99, 99); width:30%; margin-top: 10px;">
+
+      <div class="loadingAnimation hide">
+        ?
+      </div>
+
+      <h3 class=" countryName">Nigeria</h3>
+      <span class="continent">Test</span>
+
+      <p class="population">
+        ????? &nbsp; &nbsp; 0.4M People
+      </p>
+
+      <p class="language">
+        ?? &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;English
+      </p>
+
+      <p class="currency">
+        ?? &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NGN
+      </p>
