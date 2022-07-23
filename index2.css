@@ -67,7 +67,8 @@ body {
   background-color: rgb(240, 235, 230);
   transition: all 0.5s;
   padding: 10px;
-  overflow-x: auto;
+  overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 .continent {
@@ -113,6 +114,7 @@ p {
   box-shadow: black;
   transition: all 0.5s;
   opacity: 0.8;
+  overflow-y: auto;
 }
 
 .inside1 {

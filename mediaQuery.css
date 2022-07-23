@@ -64,4 +64,9 @@
     margin-top: 10px;
   }
 
+  .hr {
+    display: none;
+    opacity: 0
+  }
+
 }
